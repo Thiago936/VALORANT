@@ -121,3 +121,33 @@ nav li a:hover{
     display: flex;
     gap: 3%;
 }
+.leviatan{
+    padding-left: 3%;
+    margin-top: 11px;
+    text-align: center;
+}
+.logo-leviatan{
+    padding-left: 6%;
+}
+.container5{
+    background-image: url(LEVIATÁN/LEVIATAN.jpg);
+    margin-top: 2%;
+    padding-left: 5%;
+    display: flex;
+    gap: 3%;
+}
+.cloud9{
+    padding-left: 3%;
+    margin-top: 11px;
+    text-align: center;
+}
+.logo-cloud9{
+    padding-left: 6%;
+}
+.container6{
+    background-image: url(CLOUD9/Imagem\ do\ WhatsApp\ de\ 2023-03-30\ à\(s\)\ 17.17.38.jpg);
+    margin-top: 2%;
+    padding-left: 5%;
+    display: flex;
+    gap: 3%;
+}
